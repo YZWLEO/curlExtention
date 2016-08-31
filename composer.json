@@ -1,0 +1,16 @@
+{
+    "name": "leo2016/thecurl",
+    "description": "curl file_get_contents for yii2.0",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "minimum-stability": "dev",
+    "require": {},
+    "keywords":["yii","yii2","extension","curl"],
+    "authors":[{"name":"leo.yan"}],
+    "homepage":"https://github.com/YZWLEO/curlExtention",
+    "autoload": {
+      "psr-4": {
+        "leo2016\\thecurl\\": ""
+      }
+    }
+}
