@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "require": {},
     "keywords":["yii","yii2","extension","curl"],
-    "authors":[{"name":"leo.yan"}],
+    "authors":[{"name":"leo.yan","home":"https://packagist.org"}],
     "homepage":"https://github.com/YZWLEO/curlExtention",
     "autoload": {
       "psr-4": {
